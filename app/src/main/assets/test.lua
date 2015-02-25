@@ -1,0 +1,1 @@
+local arg1 = ...; print(arg1:getString());  var = arg1:getString();
